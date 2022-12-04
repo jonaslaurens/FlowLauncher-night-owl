@@ -38,7 +38,6 @@
     <Style x:Key="PendingLineStyle" BasedOn="{StaticResource BasePendingLineStyle}" TargetType="{x:Type Line}">
         <Setter Property="Stroke" Value="#ba1e4a" /> <!-- Bar Color -->
     </Style>
-
     <!-- Item Style -->
     <Style x:Key="ItemTitleStyle"  BasedOn="{StaticResource BaseItemTitleStyle}" TargetType="{x:Type TextBlock}">
         <Setter Property="Foreground" Value="#c792ea" />
